@@ -1,0 +1,19 @@
+{
+    "name": "krishnaarga/html-element",
+    "description": "HTML Element Generator Using PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Krishna Kanhaiya",
+            "email": "krishnaarga@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/HTMLElement.php"
+        ]
+    }
+}
